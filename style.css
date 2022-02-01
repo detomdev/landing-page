@@ -1,0 +1,39 @@
+button {
+    background-color: #3882F6;
+    border: 0;
+    color: #F9FAF8;
+    border-radius: 5px;
+    padding: 5px 10px;
+    width: 100px;
+}
+
+.call-to-action {
+    background-color: #3882F6;
+    width: 600px;
+    padding: 20px 40px;
+    color: #E5E7EB;
+    display: flex;
+    align-items: center;
+}
+
+.C2AH {
+    font-size: 24px;
+}
+
+.C2ASUB {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.C2Abut{
+    text-align: center;
+    border: 1px;
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    flex-grow: 0;
+    width: 100px;
+    height: 25px;
+    margin-left: auto;
+    
+}
